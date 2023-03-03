@@ -1,3 +1,3 @@
 # Helloworld
-My first repository on Github.\n
+My first repository on Github.
 Hello world！
